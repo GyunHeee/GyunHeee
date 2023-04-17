@@ -3,7 +3,7 @@
 * 경북대학교 컴퓨터학부 3학년 휴학중
 
 # Tech Stack
-![react](https://user-images.githubusercontent.com/92011224/232422869-835abc51-741f-4a1d-9064-47aaf7b3771c.svg)
+<img src="https://img.shields.io/badge/React-#61DAFB?style=flat-square&logo=React&logoColor=white"/>
 
 
 # Project
