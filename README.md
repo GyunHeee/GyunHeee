@@ -41,6 +41,9 @@
 <a href="https://github.com/GyunHeee/Youtube-coding">
   Youtube API를 활용한 유투브 클론 
 </a> 
+
+### Other Projects
+
 <!--
 **GyunHeee/GyunHeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
