@@ -38,7 +38,7 @@
 </a> 
 
 ### Youtube Coding
-<a href="https://github.com/GyunHeee/Magazine">
+<a href="https://github.com/GyunHeee/Youtube-coding">
   Youtube API를 활용한 유투브 클론 
 </a> 
 <!--
