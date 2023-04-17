@@ -28,13 +28,13 @@
 # Project
 ## Toy Projects
 ### MovieMate
-(
 <a href="https://github.com/GyunHeee/Magazine">
   TMDB API를 활용한 최신 인기 영화 정보 제공 웹 어플리케이션
-</a> )
+</a> 
 ### Daily Magazine
-
-모든 사용자가 포스트 가능한 메거진 웹 어플리케이션
+<a href="https://github.com/GyunHeee/Magazine">
+  모든 사용자가 포스트 가능한 메거진 웹 어플리케이션
+</a> 
 <!--
 **GyunHeee/GyunHeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
