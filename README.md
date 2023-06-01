@@ -43,7 +43,6 @@
 </a> 
 
 ### Other Projects
-https://gyunheee.github.io/Portfolio/
 
 <!--
 **GyunHeee/GyunHeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
