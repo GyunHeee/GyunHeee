@@ -37,11 +37,6 @@
   모든 사용자가 포스트 가능한 메거진 웹 어플리케이션
 </a> 
 
-### Youtube Coding
-<a href="https://github.com/GyunHeee/Youtube-coding">
-  Youtube API를 활용한 유투브 클론 
-</a> 
-
 ### Other Projects
 
 <!--
