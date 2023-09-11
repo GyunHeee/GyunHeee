@@ -28,6 +28,9 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
 </div>
 
+# Tools
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+
 # Project
 ## Toy Projects
 ### MovieMate
