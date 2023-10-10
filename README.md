@@ -1,6 +1,6 @@
 # Introduce
 * Front-end 개발자
-* 컴퓨터학부 휴학중
+* 컴퓨터학부 휴학
 
 # Tech Stack
 <div>
