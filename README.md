@@ -54,7 +54,7 @@
   모든 사용자가 포스트 가능한 메거진 웹 어플리케이션
 </a> 
 
-### Other Projects
+## Other Projects
 
 ![GyunHeee's GitHub stats](https://github-readme-stats.vercel.app/api?username=GyunHeee&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GyunHeee&layout=compact)
