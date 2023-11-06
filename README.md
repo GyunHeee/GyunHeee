@@ -36,7 +36,11 @@
 <a href="https://github.com/GyunHeee/MovieMate">
   TMDB API를 활용한 최신 인기 영화 정보 제공 웹 어플리케이션
 </a> 
-<a herf=""></a>
+
+### 9in
+<a herf="https://github.com/GyunHeee/side_project/tree/main">
+  It 스터디 & 프로젝트 팀원 구인 웹 어플리케이션
+</a>
 
 ### Daily Magazine
 
