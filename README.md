@@ -1,6 +1,6 @@
 # Introduce
 * Front-end 개발자
-* 컴퓨터학부 휴학
+* 컴퓨터학부 휴학중
 
 # Tech Stack
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
