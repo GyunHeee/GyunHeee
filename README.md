@@ -33,7 +33,7 @@
 ## Toy Projects
 ### 9in
 
-<a href="https://github.com/GyunHeee/side_project">
+<a href="https://github.com/9uin-project/9uin_repository">
   It 스터디 & 프로젝트 팀원 구인 웹 어플리케이션
 </a> 
 
