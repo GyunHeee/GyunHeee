@@ -30,15 +30,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
-# Project
-## Toy Projects
-### 9in
-
-<a href="https://github.com/9uin-project/9uin_repository">
-  It 스터디 & 프로젝트 팀원 구인 웹 어플리케이션
-</a> 
-
-## Other Projects
 
 ![GyunHeee's GitHub stats](https://github-readme-stats.vercel.app/api?username=GyunHeee&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GyunHeee&layout=compact)
