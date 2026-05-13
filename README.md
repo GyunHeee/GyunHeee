@@ -30,7 +30,7 @@ Tech Blog ·[Blog](https://astarisborn.tistory.com/)
 - 멋쟁이사자처럼 KNU 14기 · BackEnd 운영진 &nbsp; `2026.03 – present`
 - Google Developers Groups KNU 5기 · 멤버 &nbsp; `2025.09 – 2026.02`
 - Google Developers Groups KNU 5.5기 · BackEnd 운영진 &nbsp; `2026.01 – present`
-- 경북대학교 컴퓨터학부 홍보단 · 웹마스터팀 &nbsp; `2025.09 – present`
+- 경북대학교 컴퓨터학부 홍보단 · 웹마스터팀 &nbsp; `2025.09 – 2026.03`
 - Heritage Loop · 전통매듭 및 시니어 일자리 창출 창업팀 &nbsp; `2025.09 – present`
 
 
