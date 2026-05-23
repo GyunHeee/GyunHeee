@@ -24,8 +24,8 @@ Tech Blog ·[Blog](https://astarisborn.tistory.com/)
 
 ## Activity
 
-- Enactus KNU 8기 · 멤버 (창업동아리) &nbsp; `2025.09 – 2026.02`
-- Enactus KNU 9기 · 멤버 (창업동아리) &nbsp; `2026.03 – present`
+- Enactus KNU 8기 · 멤버 (창업학회) &nbsp; `2025.09 – 2026.02`
+- Enactus KNU 9기 · 멤버 (창업학회) &nbsp; `2026.03 – present`
 - 멋쟁이사자처럼 KNU 13기 · 멤버 (개발동아리) &nbsp; `2025.03 – 2025.12`
 - 멋쟁이사자처럼 KNU 14기 · BackEnd 운영진 &nbsp; `2026.03 – present`
 - Google Developers Groups KNU 5기 · 멤버 &nbsp; `2025.09 – 2026.02`
