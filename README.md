@@ -27,17 +27,15 @@ Tech Blog ·[Blog](https://astarisborn.tistory.com/)
 
 - Enactus KNU 8기 · 멤버 (창업학회) &nbsp; `2025.09 – 2026.02`
 - Enactus KNU 9기 · 멤버 (창업학회) &nbsp; `2026.03 – present`
-- 멋쟁이사자처럼 KNU 13기 · 멤버 (개발동아리) &nbsp; `2025.03 – 2025.12`
+- 멋쟁이사자처럼 KNU 13기 · 멤버 (개발동아리) &nbsp; `2025.03 – 2025.12` · [수료증](certificates/likelion_knu13.pdf)
 - 멋쟁이사자처럼 KNU 14기 · BackEnd 운영진 &nbsp; `2026.03 – present`
-- Google Developers Groups KNU 5기 · 멤버 &nbsp; `2025.09 – 2026.02`
+- Google Developers Groups KNU 5기 · 멤버 &nbsp; `2025.09 – 2026.02` · [수료증](certificates/gdgoc_knu5.pdf)
 - Google Developers Groups KNU 5.5기 · BackEnd 운영진 &nbsp; `2026.01 – present`
 - 경북대학교 컴퓨터학부 홍보단 · 웹마스터팀 &nbsp; `2025.09 – 2026.03`
 - LoopIn · 전통매듭 및 시니어 일자리 창출 창업팀 &nbsp; `2025.09 – present`
-- TOEIC 800점 · 어학성적 사전등록 (인사혁신처) &nbsp; `2026.05`
-- SQLD(SQL개발자) · 국가공인 자격증 취득 (한국데이터산업진흥원) &nbsp; `2026.03`
-- TOPCIT 501점 (Lv.3) · 소프트웨어역량검정 성적 취득 (정보통신기획평가원) &nbsp; `2025.11`
-- GDGoC KNU 5기 · AI Native BE 수료증 (Google Developer Group) &nbsp; `2026.02`
-- 멋쟁이사자처럼 KNU 13기 · 수료증 (경북대학교) &nbsp; `2025.12`
+- TOEIC 800점 · 어학성적 사전등록 (인사혁신처) &nbsp; `2026.05` · [증명서](certificates/toeic_800.pdf)
+- SQLD(SQL개발자) · 국가공인 자격증 취득 (한국데이터산업진흥원) &nbsp; `2026.03` · [자격증](certificates/sqld.pdf)
+- TOPCIT 501점 (Lv.3) · 소프트웨어역량검정 성적 취득 (정보통신기획평가원) &nbsp; `2025.11` · [성적표](certificates/topcit.pdf)
 
 
 ---
