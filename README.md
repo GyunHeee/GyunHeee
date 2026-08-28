@@ -42,7 +42,7 @@ Tech Blog ·[Blog](https://astarisborn.tistory.com/)
 ## Certificates & Language
 
 - SQLD(SQL개발자) · 국가공인 자격증 취득 (한국데이터산업진흥원) &nbsp; `2026.03` · [자격증](certificates/sqld.pdf)
-- TOPCIT 501점 (Lv.3) · 소프트웨어역량검정 성적 취득 (정보통신기획평가원) &nbsp; `2025.11` · [성적표](certificates/topcit.pdf)
+- TOPCIT 582점 (Lv.3) · 소프트웨어역량검정 성적 취득 (정보통신기획평가원) &nbsp; `2026.05` · [성적표](certificates/topcit.pdf)
 - OPIc IH &nbsp; `2026.08` · [증명서](certificates/opic_ih.pdf)
 - TOEIC 800점 &nbsp; `2026.05` · [증명서](certificates/toeic_800.pdf)
 
