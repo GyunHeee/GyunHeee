@@ -25,6 +25,7 @@ Tech Blog ·[Blog](https://astarisborn.tistory.com/)
 
 ## Activity
 
+- FPT IS (Danang) Internship · 개발 인턴 `2026.07`
 - Enactus KNU 8기 · 멤버 (창업학회) &nbsp; `2025.09 – 2026.02`
 - Enactus KNU 9기 · 멤버 (창업학회) &nbsp; `2026.03 – present`
 - 멋쟁이사자처럼 KNU 13기 · 멤버 (개발동아리) &nbsp; `2025.03 – 2025.12` · [수료증](certificates/likelion_knu13.pdf)
@@ -33,17 +34,16 @@ Tech Blog ·[Blog](https://astarisborn.tistory.com/)
 - Google Developers Groups KNU 5.5기 · BackEnd 운영진 &nbsp; `2026.01 – present`
 - 경북대학교 컴퓨터학부 홍보단 · 웹마스터팀 &nbsp; `2025.09 – 2026.03`
 - LoopIn · 전통매듭 및 시니어 일자리 창출 창업팀 &nbsp; `2025.09 – present`
-- FPT Vietnam Summer Internship · 개발 인턴
+- 2025–2026 Silicon Valley AI Workshop · San José State University (생성형 AI·LLM·AI Agent 학습 및 MCP 프로젝트 수행) `2026.01`
 - MIT GSW 2026 · 서포터즈 (행사 운영 및 글로벌 참가자·연사 응대)
-- 2025–2026 Silicon Valley AI Workshop · San José State University (생성형 AI·LLM·AI Agent 학습 및 MCP 프로젝트 수행)
 
 ---
 
 ## Certificates & Language
 
-- SQLD(SQL개발자) · 국가공인 자격증 취득 (한국데이터산업진흥원) &nbsp; `2026.03` · [자격증](certificates/sqld.pdf)
-- TOPCIT 582점 (Lv.3) · 소프트웨어역량검정 성적 취득 (정보통신기획평가원) &nbsp; `2026.05` · [성적표](certificates/topcit.pdf)
 - OPIc IH &nbsp; `2026.08` · [증명서](certificates/opic_ih.pdf)
 - TOEIC 800점 &nbsp; `2026.05` · [증명서](certificates/toeic_800.pdf)
+- SQLD(SQL개발자) · 국가공인 자격증 취득 (한국데이터산업진흥원) &nbsp; `2026.03` · [자격증](certificates/sqld.pdf)
+- TOPCIT 582점 (Lv.3) · 소프트웨어역량검정 성적 취득 (정보통신기획평가원) &nbsp; `2026.05` · [성적표](certificates/topcit.pdf)
 
 ---
