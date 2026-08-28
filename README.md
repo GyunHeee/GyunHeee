@@ -33,6 +33,9 @@ Tech Blog ·[Blog](https://astarisborn.tistory.com/)
 - Google Developers Groups KNU 5.5기 · BackEnd 운영진 &nbsp; `2026.01 – present`
 - 경북대학교 컴퓨터학부 홍보단 · 웹마스터팀 &nbsp; `2025.09 – 2026.03`
 - LoopIn · 전통매듭 및 시니어 일자리 창출 창업팀 &nbsp; `2025.09 – present`
+- FPT Vietnam Summer Internship · 개발 인턴
+- MIT GSW 2026 · 서포터즈 (행사 운영 및 글로벌 참가자·연사 응대)
+- 2025–2026 Silicon Valley AI Workshop · San José State University (생성형 AI·LLM·AI Agent 학습 및 MCP 프로젝트 수행)
 
 ---
 
